@@ -8,7 +8,7 @@ from player_client import run_player_menu
 from developer_client import run_developer_menu
 
 SERVER_HOST = "140.113.17.11"
-SERVER_PORT = 5000
+SERVER_PORT = 7000
 
 ### system處理註冊及登入
 def system_register(sock):
