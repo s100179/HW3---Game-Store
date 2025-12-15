@@ -35,6 +35,7 @@ python client_lobby.py
 ```
 
 執行後，即可進入遊戲商城大廳：
+
 === Game Store Lobby ===
 1. 登入
 2. 註冊
@@ -46,6 +47,7 @@ python client_lobby.py
 ### 開發者說明
 
 開發者大廳頁面如下：
+
 === Developer Menu (456) ===
 1. 上傳新遊戲
 2. 更新現有遊戲
@@ -66,12 +68,13 @@ python client_lobby.py
 ```
 請依照指示輸入遊戲資訊
 注意：
-1. 請將要上傳的遊戲資料夾放入 **HW3 — Game Store/** ，並在遊戲資料夾處輸入該遊戲的資料夾名稱
-2. 遊戲內執行檔檔名為 **game_server** + **game_client**
+1. 請將要上傳的遊戲資料夾放入 `HW3 — Game Store/` ，並在遊戲資料夾處輸入該遊戲的資料夾名稱
+2. 遊戲內執行檔檔名為 `game_server` + `game_client`
 
 ### 玩家說明
 
 玩家大廳頁面如下：
+
 === Player Menu (123) ===
 1. 瀏覽商城遊戲
 2. 查看線上玩家列表
