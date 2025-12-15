@@ -85,3 +85,7 @@ python client_lobby.py
 
 可在瀏覽商城遊戲處下載遊戲，或是進入遊戲大廳下載
 注意：若沒下載或未更新到最新版，則無法進入該遊戲的遊戲大廳
+
+### 其他注意事項
+1. 如果出現 **no response from server** 代表lobby_server斷線，請重啟lobby_server後再重啟client_lobby
+2. 若未照指示輸入，會出現輸入錯誤的字樣，請重新輸入並按照指示操作
